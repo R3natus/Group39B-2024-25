@@ -1,0 +1,46 @@
+Minutes 16.10.2024
+-----------------------------------------------------------
+Attendees: Pat, Jake, Abde, Rami, Ghazanfar
+-----------------------------------------------------------
+Agenda:
+  - Collate ideas for a full-stact project
+  - Set up GitHub repository and add all group members
+-----------------------------------------------------------
+Minutes:
+  Can either focus on education or health (Goal 4) and/or health (Goal 3)
+  - Teach basic first aid?
+  - Help students with career paths?
+  - Teach mathematics and/or finance?
+        - Show bursaries/grants
+        - Offer modules on maths and finance (morgages, investments etc.)
+
+  App to have modules, which include:
+    - Summarised information
+    - Video/audio to teahc sections
+    - Multiple Choice Questions after each section
+    - Up to 3 minute quiz at the end of the module
+  
+  All agree on implementing a game as a functionality
+    - Create a game similar to BBC Bitesize games
+    - Rami can work on UI and character design
+  App should include a forum / messaging system
+    - Similar to thestudentroom.com
+  
+  Verification system to validate staff and students to the system
+    - Scale back -> focus the target audience on teens (14-18 year olds)
+  
+Include community engagement: students can create their own modules using pre-built tools
+  - Very simple for them to add info, and potentially an audio/video they upload
+  - Add a rating system of 1-5 stars
+  - Filter community modules by highest-lowest average rating, newest-oldest and vice versa
+
+Login system: emails must include .ac.uk
+  - Conflict hard to target younger audience if they are not part of an academic institution
+    We should aim to offer accessible education online for everyone
+  - For staff, need verification or contact page admin
+    - Scale back - focus on core functionality that is also relatively easy to implement
+-----------------------------------------------------------
+Actions before next meeting:
+  - Create GitHub repository for the group
+  - All group members added as collaborators on GitHub
+  - Get feedback of minutes from absent group members
