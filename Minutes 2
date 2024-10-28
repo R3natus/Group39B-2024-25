@@ -1,4 +1,112 @@
- - Confirm the topic of research with the team
+Minutes 23.10.2024
+-----------------------------------------------------------
+Attendees: Pat, Jake, Abde, Rami, Ghazanfar
+-----------------------------------------------------------
+Agenda:
+  - Determine the scope and scale of project
+  - Confirm the topic of research with the team
 -----------------------------------------------------------
 Minutes:
-  
+
+--- Pitch ---
+
+1.
+a. Problem aims to solve the lack of numeracy skills in children aged 14-16 and under in the UK.
+b. To help students improve their grades in GCSE maths exams
+c. The problem of lacking numeracy skills means struggling in a majority of day-to-day life skills such as time management, budgeting, taxes <--- Specifically for later in life etc.
+d. The project aligns with Goal 4 Education equality
+
+
+2.
+a. A dynamic website which contains interactive minigames to teach students basic numeracy skills, and tests their knowledge.
+b. The unique aspect is the live multiplayer games, where multiple students can compete in the same quiz and get rewards depending on how they ranked
+
+3.
+a. core written down below
+b. the core features help the students learn the mentioned numeracy skills by actively engaging them in minigames
+
+Reason for choosing maths:
+- From a development standpoint, it would be the easiest to implement because always has a correct answer, unlike English where things could be up to interpretation
+- From a social standpoint, basic maths skills are core and essential to learn
+
+- Find / look for research to support focusing the project on the 14-16 age group
+- ^ Reason: Kids being easiest to teach due to them still being young
+- Preparing students for the harder topics in Maths
+- Help students achieve higher grades in GCSE maths
+
+- Look at existing GCSE spec sheets for guidance of what to add in modules
+- ? Fetch 3rd party data to implement in quizzes
+- Research different learning styles e.g. Visual learning, Audio learning etc.
+ 
+Activity 1 - Selecting problem area
+- Done last week, group chose Education (Goal 4)
+- Targeting mathematics skills within the primary/low secondary age group (10-14)
+
+Activity 2 - Empathize and define problem statement
+- Have each group member create and write a user persona for the project
+
+Storyboard / Sketches / Wireframes will be done for the week 5 deadline. <-- To be added to powerpoint slides in form of video
+
+Activity 3 - Ideate for solution
+
+- Solving problem of primary/secondary level mathematics and literacy skills dropping in recent years in OECD countries
+- Improve/raise the percentage of people with
+- Target primary/lower secondary school individuals
+- No login for minors, have logins for adults, where they can leave reviews for modules.
+- Have profiles for the minors which are linked to an adult account, where the adult can supervise/control the profile
+
+----- Core functionalities -----
+
+- Have FAQs for each subjects like maths
+- Have flashy, bright and colourful games for the target audience (under 16)
+- Have quizzes inside games in order to test knowledge of students
+- Have interactive experiences to teach students the concepts of mathematics
+- Have leaderboard system (anonymous)
+- Have duolingo-like league system instead of leaderboard, once you reach certain EXP you move up to the next league where you get         certain rewards depending on which league you end in.
+- Display ads for educational products
+- Have monthly subscription service to remove ads, and unlimited hearts during quizzes
+- Have heart system in quizzes
+- Have public live seminars (streams) where groups of students can ask questions
+- Incentives for students to perform by providing paid courses for free for those who score high. (For project pitch)
+- Multiplayer live "competitions" using quizzes where students compete to answer questions as fast as possible, can earn rewards for scoring high during events.
+- Have an email system for the parents to keep them updated on their childrens' progress, can be weekly or monthly
+
+13 core
+
+------ Additional functionalities -----
+
+- Have badges/skins/cosmetics for users to equip on their avatar <--- Part of rewards of live competitions
+- Have 1 on 1 live sessions with a verified teacher, where students can ask specific questions about the topics they are learning
+- Have forums for each subjects like maths, english etc. <--- Only able to post if school email is used. Is able to be read by anyone
+- Track progress with details (Parent-Teacher reports)
+- Have a non-intrusive ad system where you can watch an ad in exchange for currency on the website
+- Cosmetics for avatar which can be bought used the website currency
+- DBS (background) checks to verify teachers having credientials
+- Include higher education content for students of higher age
+- English for primary level only
+- Have a framework for students to create their own quizzes to share and to create new topics like English, science etc.
+- Add multiple language modules (maybe created by students)
+
+11 additional
+
+Activity 4 - Business Model/Lean or mission model canvas
+
+To Do:
+
+Do the sketches for powerpoint (pat)
+
+Create user personas (1 each)
+
+Video for presentation (Ramsy)
+
+Get everyone to answer atleast 1 question on deliverable sheet
+
+Do demo website for presentation (abdi and pat)
+
+Draft for project pitch by Monday hopefully
+
+Meet next Wednesday
+
+Submit by next Thursday
+
+Discuss who'll upload the pitch Monday
